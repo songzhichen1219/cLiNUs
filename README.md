@@ -22,6 +22,7 @@ README.md for cLiNUs
     o José J. Lizárraga, joselizarragabarrera2012@u.northwestern.edu, Department of Civil and Environmental Engineering, Northwestern University, United States
 
     o Giuseppe Buscarnera, g-buscarnera@northwestern.edu, Department of Civil and Environmental Engineering, Northwestern University, United States.
+    
 
 
 
